@@ -72,7 +72,7 @@ Include all the puppet services offered by Wechaty.
 
 ## Learnings🥇
 
-I am glad to have got the chance and opportunity to be a part of the Google Season of Docs 2021 program organized by Google. The learning curve in the whole journey has been high. The program has helped me to:
+we are glad to have got the chance and opportunity to be a part of the Google Season of Docs 2021 program organized by Google. The learning curve in the whole journey has been high. The program has helped us to:
 * Understand the importance of Technical documentation.
 * Learn about Docusaurus and MDX(Markdown+ReactJS).
 * Learn about RPA (Robotic Process Automation) bots.
